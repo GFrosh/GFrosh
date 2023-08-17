@@ -7,12 +7,12 @@ Will be moving on to backend sooner...🔥
 I'm open to any interesting ideas or suggestions.
 
 
-#Languages 
-*HTML
-*CSS
-*JAVASCRIPT...
+# Languages 
+* HTML
+* CSS
+* JAVASCRIPT...
 
-#Platforms
-*TELEGRAM
-*GITHUB
-*WHATSAPP...
+# Platforms
+* TELEGRAM
+* GITHUB
+* WHATSAPP...
