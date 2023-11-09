@@ -14,4 +14,4 @@ I'm open to any interesting ideas or suggestions.
 # Platforms
 * TELEGRAM
 * GITHUB
-* WHATSAPP...
+* [WHATSAPP...](https://wa.me/2348137960057)
