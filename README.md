@@ -41,8 +41,8 @@ Here are three of my current favourites:
 [![Gideon's GitHub stats](https://github-stats-nine-hazel.vercel.app/api?username=gfrosh&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues&hide_rank=false&include_all_commits=true)](https://github.com/gfrosh)
 
 ## 🗣️ My Top Language
-[![Top Langs](https://github-stats-nine-hazel.vercel.app/api/top-langs/?username=gfrosh&layout=compact&theme=tokyonight&hide=HTML,CSS)](https://github.com/gfrosh)
+[![Top Langs](https://github-stats-nine-hazel.vercel.app/api/top-langs/?username=gfrosh&layout=compact&theme=tokyonight&hide=HTML,CSS)](https://github.com/gfrosh/repos)
 
 
 
-That should be all for now folks 👋
+That's all for now folks 👋
