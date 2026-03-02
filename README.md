@@ -27,7 +27,7 @@ Here are three of my current favourites:
 - Email: gigi.onyegbula.2007@gmail.com
 - WhatsApp: [whatsapp.com](https://wa.me/+2348137960057)
 - LinkedIn: [linkedin.com/in/gideon-onyegbula](https://linkedin.com/in/gideon-onyegbula)  
-- Portfolio / Blog: [www.gideon.tech](https://devgideon.tech) *(coming soon)*
+- Portfolio / Blog: [www.gideon.tech](https://gfrosh.github.io/Portfolio)
 
 ## 🎮 Fun Facts
 - I managed to code in IgboScript at some point... crazy stuff 😅  
@@ -36,6 +36,6 @@ Here are three of my current favourites:
 
 ---
 
-[![Gideon's GitHub stats](https://github-stats-nine-hazel.vercel.app/api?username=gfrosh)](https://github.com/gfrosh)
+[![Gideon's GitHub stats](https://github-stats-nine-hazel.vercel.app/api?username=gfrosh&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/gfrosh)
 
 That should be all for now folks 👋
