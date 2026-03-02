@@ -36,6 +36,6 @@ Here are three of my current favourites:
 
 ---
 
-![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=gfrosh&type=fire)
+[![Gideon's GitHub stats](https://github-stats-nine-hazel.vercel.app/api?username=gfrosh)](https://github.com/gfrosh)
 
 That should be all for now folks 👋
