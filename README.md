@@ -36,6 +36,6 @@ Here are three of my current favourites:
 
 ---
 
-[![Gideon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfrosh&show_icons=true&theme=tokyonight)](https://github.com/gfrosh)
+![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=GFrosh&type=fire)
 
 That should be all for now folks 👋
