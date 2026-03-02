@@ -36,6 +36,6 @@ Here are three of my current favourites:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GFrosh&show_icons=true&theme=radical)
+[![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfrosh)](https://github.com/anuraghazra/github-readme-stats)
 
 That should be all for now folks 👋
