@@ -36,6 +36,6 @@ Here are three of my current favourites:
 
 ---
 
-![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=GFrosh&type=fire)
+![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=gfrosh&type=fire)
 
 That should be all for now folks 👋
