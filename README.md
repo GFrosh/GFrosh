@@ -2,15 +2,13 @@
 
 I’m a *Software Engineering Student* based in Lagos, Nigeria — passionate about building web applications, automations and tools that make life easier (and code less boring).
 
-## ℹ️ My Stats
 [![Gideon's GitHub stats](https://github-stats-nine-hazel.vercel.app/api?username=gfrosh&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues&hide_rank=false&include_all_commits=true)](https://github.com/gfrosh)
 
-## 🗣️ My Top Language
 [![Top Langs](https://github-stats-nine-hazel.vercel.app/api/top-langs/?username=gfrosh&layout=compact&theme=tokyonight&hide=HTML,CSS)](https://github.com/GFrosh/?tab=repositories)
 
 
 ## 🚀 Skills & Tech Stack
-- **Languages:** JavaScript, HTML5, CSS3, C++, Python, Java 
+- **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) [![Java](https://img.shields.io/badge/Java-OpenJDK%2017%2B-orange.svg)](https://openjdk.org/) 
 - **Frontend:** React, Redux, CSS‑animations, JavaScript  
 - **Backend (building now):** Node.js, Express, REST APIs  
 - **Tools & Workflow:** Git, GitHub, npm, Webpack, GitHub Actions  
