@@ -36,6 +36,6 @@ Here are three of my current favourites:
 
 ---
 
-[![Gideon's GitHub stats](https://github-stats-nine-hazel.vercel.app/api?username=gfrosh&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/gfrosh)
+[![Gideon's GitHub stats](https://github-stats-nine-hazel.vercel.app/api?username=gfrosh&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/gfrosh](https://github.com/GFrosh/github-stats))
 
 That should be all for now folks 👋
