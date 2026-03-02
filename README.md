@@ -2,6 +2,13 @@
 
 I’m a *Software Engineering Student* based in Lagos, Nigeria — passionate about building web applications, automations and tools that make life easier (and code less boring).
 
+## ℹ️ My Stats
+[![Gideon's GitHub stats](https://github-stats-nine-hazel.vercel.app/api?username=gfrosh&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues&hide_rank=false&include_all_commits=true)](https://github.com/gfrosh)
+
+## 🗣️ My Top Language
+[![Top Langs](https://github-stats-nine-hazel.vercel.app/api/top-langs/?username=gfrosh&layout=compact&theme=tokyonight&hide=HTML,CSS)](https://github.com/GFrosh/?tab=repositories)
+
+
 ## 🚀 Skills & Tech Stack
 - **Languages:** JavaScript, HTML5, CSS3, C++, Python, Java 
 - **Frontend:** React, Redux, CSS‑animations, JavaScript  
@@ -35,14 +42,6 @@ Here are three of my current favourites:
 - My keyboard is sometimes jealous of how much I code… then I switch to play the keys (yeah, I can also play the piano).
 
 ---
-
-
-## ℹ️ My Stats
-[![Gideon's GitHub stats](https://github-stats-nine-hazel.vercel.app/api?username=gfrosh&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues&hide_rank=false&include_all_commits=true)](https://github.com/gfrosh)
-
-## 🗣️ My Top Language
-[![Top Langs](https://github-stats-nine-hazel.vercel.app/api/top-langs/?username=gfrosh&layout=compact&theme=tokyonight&hide=HTML,CSS)](https://github.com/gfrosh/repos)
-
 
 
 That's all for now folks 👋
