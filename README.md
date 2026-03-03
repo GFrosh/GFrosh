@@ -53,12 +53,15 @@ Here are three of my current favourites:
 
 > *More projects available in my [Repositories](https://github.com/GFrosh?tab=repositories) — feel free to browse.*
 
-## 📫 Let’s Connect
-- Email: gigi.onyegbula.2007@gmail.com
-- WhatsApp: [whatsapp.com](https://wa.me/+2348137960057)
-- LinkedIn: [linkedin.com/in/gideon-onyegbula](https://linkedin.com/in/gideon-onyegbula)  
-- Portfolio / Blog: [www.gideon.tech](https://gfrosh.github.io/Portfolio)
+## 📬 Connect With Me
 
+[![Email](https://img.shields.io/badge/Email-gigi.onyegbula.2007%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gigi.onyegbula.2007@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gideon%20Onyegbula-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gideon-onyegbula)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.gideon.tech-black?style=for-the-badge&logo=vercel&logoColor=white)](https://gfrosh.github.io/Portfolio)
 ## 🎮 Fun Facts
 - I managed to code in IgboScript at some point... crazy stuff 😅  
 - Huge anime fan.  
