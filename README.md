@@ -7,6 +7,10 @@ I’m a *Software Engineering Student* based in Lagos, Nigeria — passionat
 [![Top Langs](https://github-stats-nine-hazel.vercel.app/api/top-langs/?username=gfrosh&layout=compact&theme=tokyonight&hide=HTML,CSS)](https://github.com/GFrosh/?tab=repositories)
 
 
+## ⚡ GitHub Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GFrosh)](https://git.io/streak-stats)
+
+
 ## 🚀 Skills & Tech Stack
 - **Languages:** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -62,11 +66,6 @@ Here are three of my current favourites:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gideon%20Onyegbula-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gideon-onyegbula)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.gideon.tech-black?style=for-the-badge&logo=vercel&logoColor=white)](https://gfrosh.github.io/Portfolio)
-
-
-## ⚡ GitHub Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GFrosh)](https://git.io/streak-stats)
-
 
 
 ## 🎮 Fun Facts
