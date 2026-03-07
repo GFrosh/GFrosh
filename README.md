@@ -62,6 +62,13 @@ Here are three of my current favourites:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gideon%20Onyegbula-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gideon-onyegbula)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.gideon.tech-black?style=for-the-badge&logo=vercel&logoColor=white)](https://gfrosh.github.io/Portfolio)
+
+
+## ⚡ GitHub Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GFrosh)](https://git.io/streak-stats)
+
+
+
 ## 🎮 Fun Facts
 - I managed to code in IgboScript at some point... crazy stuff 😅  
 - Huge anime fan.  
