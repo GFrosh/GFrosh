@@ -8,7 +8,7 @@ I’m a *Software Engineering Student* based in Lagos, Nigeria — passionat
 
 
 ## ⚡ GitHub Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GFrosh&theme=tokyonight&hide_border=true&background=00FF00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GFrosh&theme=tokyonight&hide_border=true&background=538F1B)](https://git.io/streak-stats)
 
 
 ## 🚀 Skills & Tech Stack
