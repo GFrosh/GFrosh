@@ -2,8 +2,12 @@
 
 I’m a *Software Engineering Student* based in Lagos, Nigeria — passionate about building web applications, automations and tools that make life easier (and code less boring).
 
+
+## 📄 My GitHub Stats
 [![Gideon's GitHub stats](https://github-stats-nine-hazel.vercel.app/api?username=gfrosh&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues&hide_rank=false&include_all_commits=true)](https://github.com/gfrosh)
 
+
+## 🗣️ Top Languages
 [![Top Langs](https://github-stats-nine-hazel.vercel.app/api/top-langs/?username=gfrosh&layout=compact&theme=tokyonight&hide=HTML,CSS)](https://github.com/GFrosh/?tab=repositories)
 
 
