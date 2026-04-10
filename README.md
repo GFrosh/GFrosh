@@ -29,7 +29,7 @@ I’m a *Software Engineering Student* based in Lagos, Nigeria — passionat
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Backend (building now):** 
+- **Backend:** 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
@@ -44,20 +44,15 @@ I’m a *Software Engineering Student* based in Lagos, Nigeria — passionat
 - **Databases:** 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-47A248?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - **Other Interests:** Open‑source collaboration, algorithmic logic, clean code
 
 ## 🔭 What I’m Working On
 - **JavaScript Objects Deep Dive** — A repository focusing on advanced JS object manipulation, prototypes, and patterns.  
 - **Contributing to Open Source** — Making sure I’ve done meaningful commits to external projects (docs, bugs, features).
-- **Personal Dictionary Web App** — An Express + SQLite powered app to help me and others build vocabulary.
+- **Project Management System** — An Express + Postgresql powered app to help me and others manage projects we've built.
 
-## 📂 Featured Projects
-Here are three of my current favourites:  
-- **Task‑Manager App** — Full‑stack web app for organising tasks, built with React + Node.js + MongoDB.  
-- **Dictionary App (Node + SQLite)** — Building this as a mobile‑ready web app, later to port to Android/iOS via WebView.  
-- **Algorithm Visualiser** — A fun JS project visualising sort/search algorithms with animations (and yes, it wasn't easy 😂).
 
 > *More projects available in my [Repositories](https://github.com/GFrosh?tab=repositories) — feel free to browse.*
 
@@ -69,7 +64,7 @@ Here are three of my current favourites:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gideon%20Onyegbula-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gideon-onyegbula)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.gideon.tech-black?style=for-the-badge&logo=vercel&logoColor=white)](https://gfrosh.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.devgideon.me-black?style=for-the-badge&logo=vercel&logoColor=white)](https://devgideon.me)
 
 
 ## 🎮 Fun Facts
