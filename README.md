@@ -1,6 +1,6 @@
 # Hi, I’m Gideon (GFrosh) 👋
 
-I’m a *Software Engineering Student* based in Lagos, Nigeria — passionate about building web applications, automations and tools that make life easier (and code less boring).
+I’m a *Software Engineering Student* based in Lagos, Nigeria — passionate about building applications, automations and tools that make life easier (and code less boring).
 
 
 ## 📄 My GitHub Stats
